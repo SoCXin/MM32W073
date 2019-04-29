@@ -14,8 +14,8 @@ baseline member of the nRF52 Series SoC family.
 
 - ARM® Cortex™-M4 CPU running at 64 MHz. 
 
+[![sites](SoC/item.png)](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52810#) 
 [![sites](SoC/52810.png)](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52810#) 
-[![sites](SoC/feature.png)](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52810#) 
 
 ##  [SoC开发平台](http://www.qitas.cn)  
 
