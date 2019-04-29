@@ -2,7 +2,7 @@
 [![sites](SoC/qitas.png)](http://www.qitas.cn) 
 ####  qitas@qitas.cn
 #### 归属：[cortex M4](https://github.com/sochub/CM4) 
-#### 父级：[nordic](https://github.com/sochub/NRF) 
+#### 父级：[nordic](https://github.com/sochub/NRF52) 
 
 ### [简介](https://github.com/sochub/nRF52810/wiki)
 
