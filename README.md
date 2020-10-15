@@ -2,7 +2,7 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/SoCXin/Vendor)：[MindMotion](http://www.mm32.com.cn/)
+#### [Vendor](https://github.com/SoCXin/Vendor)：[MindMotion](http://www.mindmotion.com.cn/)
 #### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
 #### [Level](https://github.com/SoCXin/Level)：48MHz
 
@@ -23,10 +23,8 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
-MM32W0X系列产品拥有两种封装规格和3个梯度的存储规格，对应型号如下：
-
 * [MM32W051](https://github.com/SoCXin/MM32W051)
-* [MM32W062](https://github.com/SoCXin/MM32W062)
 * [MM32W073](https://github.com/SoCXin/MM32W073)
+* [MM32W373](https://github.com/SoCXin/MM32W373)
 
 ###  [SoC芯平台](http://www.SoC.Xin)

@@ -1,0 +1,10 @@
+.\obj\debuginflash\iwdg.o: ..\HARDWARE\IWDG\iwdg.c
+.\obj\debuginflash\iwdg.o: ..\..\Device\MM32W0xx\HAL_lib\inc\HAL_rcc.h
+.\obj\debuginflash\iwdg.o: ..\..\Device\MM32W0xx\Include\HAL_device.h
+.\obj\debuginflash\iwdg.o: ..\..\Device\MM32W0xx\Include\MM32W0xx.h
+.\obj\debuginflash\iwdg.o: ..\..\Device\CMSIS\KEIL_CORE\core_cm0.h
+.\obj\debuginflash\iwdg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\debuginflash\iwdg.o: ..\..\Device\CMSIS\KEIL_CORE\core_cmInstr.h
+.\obj\debuginflash\iwdg.o: ..\..\Device\CMSIS\KEIL_CORE\core_cmFunc.h
+.\obj\debuginflash\iwdg.o: ..\..\Device\MM32W0xx\HAL_lib\inc\HAL_iwdg.h
+.\obj\debuginflash\iwdg.o: ..\HARDWARE\IWDG\iwdg.h
