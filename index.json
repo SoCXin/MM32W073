@@ -1,0 +1,35 @@
+{
+    "type":"SoC",
+    "name":"MM32W073",
+    "title": "mindmotion MM32W073 SoC",
+    "description":"mindmotion BLE SoC",
+    "Core": {
+        "CoreNum": 1,
+        "Core":"Cortex-M0",
+        "Fmax":48,
+        "DMIPS": 50,
+        "CoreMark": 100
+    },
+    "manufacturer": {
+        "vendor":"mindmotion",
+        "homepage":"http://www.mindmotion.com.cn/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/MM32W073.git"
+    },
+    "version":"1.0.0",
+    "series":["MM32W073"],
+    "package":["QFN32","LQFP48"],
+    "peripheral": ["BLE","ADC","UART","SPI","IIC"],
+    "ESD": {
+        "HBM": 2000,
+        "CDM": 500
+    },
+    "keywords": [
+        "Cortex-M0",
+        "mindmotion",
+        "BLE","ADC","I2C","RTC","SPI","UART",
+        "3.6V","2.3V"
+    ]
+}
